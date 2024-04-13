@@ -1,3 +1,8 @@
+**This repository was deprecated and will be deleted in the future. Please use <https://github.com/cyrusyip/userscripts?tab=readme-ov-file#zhihu-no-login> instead.**
+**本仓库不再更新，以后将被删除。请使用 <https://github.com/cyrusyip/userscripts?tab=readme-ov-file#zhihu-no-login>。**
+
+---
+
 ![demo](https://user-images.githubusercontent.com/60951091/144156471-331ebe18-d6d4-4947-94f7-4c19efe38a99.gif)
 
 Redirect login page of zhihu.com to explore page so that you can browse Zhihu without logging in.
