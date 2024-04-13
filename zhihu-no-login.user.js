@@ -7,6 +7,7 @@
 // @grant        none
 // @match        *://www.zhihu.com/signin*
 // @icon         https://static.zhihu.com/heifetz/favicon.ico
+// @run-at       document-start
 // ==/UserScript==
 
 window.open("https://www.zhihu.com/explore", "_self");
